@@ -1,0 +1,99 @@
+﻿  stdafx.cpp
+  cmdutils.cpp
+d:\wincpp\gitwork\ffplayvs14dlg\inc\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(950)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\wincpp\gitwork\ffplayvs14dlg\inc\libavutil/libm.h(63): warning C4305: “参数”: 从“double”到“float”截断
+D:\wincpp\gitwork\ffplayvs14dlg\inc\libavutil/libm.h(432): warning C4244: “return”: 从“double”转换到“long”，可能丢失数据
+D:\wincpp\gitwork\ffplayvs14dlg\inc\libavutil/libm.h(453): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\wincpp\gitwork\ffplayvs14dlg\inc\libavutil/libm.h(467): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+cmdutils.cpp(340): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+cmdutils.cpp(342): warning C4305: “参数”: 从“__int64”到“double”截断
+cmdutils.cpp(342): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+cmdutils.cpp(346): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+cmdutils.cpp(1007): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+cmdutils.cpp(1046): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+cmdutils.cpp(1050): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(178): note: 参见“strerror”的声明
+cmdutils.cpp(1103): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(178): note: 参见“strerror”的声明
+cmdutils.cpp(1179): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+cmdutils.cpp(1185): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+cmdutils.cpp(1188): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+cmdutils.cpp(1192): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+cmdutils.cpp(1513): warning C4996: 'av_codec_next': 被声明为已否决
+  D:\wincpp\gitwork\ffplayvs14dlg\inc\libavcodec/avcodec.h(4118): note: 参见“av_codec_next”的声明
+cmdutils.cpp(1821): warning C4101: “fmt_str”: 未引用的局部变量
+cmdutils.cpp(1820): warning C4101: “i”: 未引用的局部变量
+cmdutils.cpp(2047): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+cmdutils.cpp(2061): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(255): note: 参见“strncat”的声明
+cmdutils.cpp(2071): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+cmdutils.cpp(2077): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+cmdutils.cpp(2164): warning C4018: “<”: 有符号/无符号不匹配
+  ConfigINI.cpp
+ConfigINI.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+ConfigINI.cpp(225): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+ConfigINI.cpp(247): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+ConfigINI.cpp(248): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+ConfigINI.cpp(254): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+ConfigINI.cpp(260): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  ffplayer.cpp
+d:\wincpp\gitwork\ffplayvs14dlg\inc\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(950)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+ffplayer.cpp(893): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+ffplayer.cpp(894): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+ffplayer.cpp(1007): warning C4018: “<”: 有符号/无符号不匹配
+ffplayer.cpp(1098): warning C4244: “-=”: 从“int64_t”转换到“int”，可能丢失数据
+ffplayer.cpp(1185): warning C4244: “=”: 从“double”转换到“FFTSample”，可能丢失数据
+ffplayer.cpp(1199): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+ffplayer.cpp(1201): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+ffplayer.cpp(1223): warning C4018: “>=”: 有符号/无符号不匹配
+ffplayer.cpp(1669): warning C4018: “<”: 有符号/无符号不匹配
+ffplayer.cpp(1839): warning C4018: “<”: 有符号/无符号不匹配
+ffplayer.cpp(1862): warning C4018: “<”: 有符号/无符号不匹配
+ffplayer.cpp(2467): warning C4018: “>=”: 有符号/无符号不匹配
+ffplayer.cpp(2589): warning C4018: “>=”: 有符号/无符号不匹配
+ffplayer.cpp(2867): warning C4018: “<”: 有符号/无符号不匹配
+ffplayer.cpp(3242): warning C4244: “参数”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+ffplayer.cpp(3252): warning C4244: “初始化”: 从“double”转换到“int64_t”，可能丢失数据
+ffplayer.cpp(3261): warning C4018: “<”: 有符号/无符号不匹配
+ffplayer.cpp(3271): warning C4018: “>=”: 有符号/无符号不匹配
+ffplayer.cpp(3377): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+ffplayer.cpp(3379): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+ffplayer.cpp(3381): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+ffplayer.cpp(3387): warning C4244: “参数”: 从“double”转换到“int64_t”，可能丢失数据
+ffplayer.cpp(3434): warning C4244: “参数”: 从“double”转换到“int64_t”，可能丢失数据
+ffplayer.cpp(3439): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+ffplayer.cpp(3444): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+ffplayer.cpp(3451): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+ffplayer.cpp(3491): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+ffplayer.cpp(3497): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+ffplayer.cpp(3698): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+ffplayer.cpp(3703): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+ffplayer.cpp(3757): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+ffplayer.cpp(3761): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+ffplayer.cpp(3802): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  ffplayvs14dlg.cpp
+  ffplayvs14dlgDlg.cpp
+  正在生成代码
+  All 614 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ffplayvs14dlg.vcxproj -> D:\wincpp\gitwork\ffplayvs14dlg\Release\ffplayvs14dlg.exe
+  ffplayvs14dlg.vcxproj -> D:\wincpp\gitwork\ffplayvs14dlg\Release\ffplayvs14dlg.pdb (Full PDB)
